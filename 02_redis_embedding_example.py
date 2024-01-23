@@ -7,7 +7,7 @@ import json
 
 
 # Varianles globales
-openai.api_key = getpass.getpass()
+openai.api_key = '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'#getpass.getpass()
 model = 'text-embedding-ada-002'
 
 # creamos un cliente de redis
