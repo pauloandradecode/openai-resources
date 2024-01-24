@@ -9,7 +9,6 @@ from langchain.memory import ConversationBufferMemory
 from langchain.text_splitter import RecursiveCharacterTextSplitter 
 import os
 import getpass
-import faiss
 import PyPDF2
 # import subprocess
 # import redis_server
